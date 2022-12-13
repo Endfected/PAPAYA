@@ -1,6 +1,9 @@
 # PAPAYA
 The Papaya foam dart blaster by Endfected.
 
+Current version: 0.0 (not uploaded)
+
+
 Contact me on discord at Endfected#6846 for questions, comments, suggestions etc. I aslo go by u/way_too_generic on reddit.
 
 These are the files for the Papaya. It is a foam dart blaster powered by flywheels. "Loosely" based on the PPSH-41, hence the name. It was formerly known as "Project Double Chin" but that was a far stretch and no one would get it. 
@@ -40,6 +43,8 @@ Possibly an M3 thumbscrew or another M3 screw for the battery cover.
 M3 nut
 Wires duh
 
+UPDATES
+13 Dec 2022: Repository created.
 
 CREDITS
 
